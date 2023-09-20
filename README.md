@@ -7,8 +7,8 @@ Your support helps keep me fueled and motivated to continue creating and sharing
 
 Thank you for being a part of my journey! ☕
 
---> []([https://github.com](https://www.buymeacoffee.com/apophis04))
-[**Buy Me a Coffee**](https://www.buymeacoffee.com/apophis04)
+
+--> [**Buy Me a Coffee ☕**](https://www.buymeacoffee.com/apophis04)
 
 
 # email_bomber
