@@ -8,6 +8,8 @@ Your support helps keep me fueled and motivated to continue creating and sharing
 Thank you for being a part of my journey! ☕
 
 --> [**Buy Me a Coffee**]([https://github.com](https://www.buymeacoffee.com/apophis04))
+[Link Text](https://www.buymeacoffee.com/apophis04)
+
 
 # email_bomber
 Python script for sending multiple emails through Outlook and Gmail with user choice, 2FA support, and adjustable delays.
